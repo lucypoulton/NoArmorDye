@@ -1,0 +1,7 @@
+name: NoArmorDye
+version: ${project.version}
+main: me.lucyy.noarmordye.NoArmorDye
+api-version: 1.16
+authors: [ __lucyy ]
+description: Prevents leather armor from being dyed
+website: https://git.lucyy.me/lucy/NoArmorDye
